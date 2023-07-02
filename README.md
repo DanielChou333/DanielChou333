@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielChou333
 - 👀 I’m interested in ... web apps and games
 - 🌱 I’m currently learning ... React, Git
-- 💞️ I’m looking to collaborate on ... web apps, games (doesn't have to be web apps, unnamed-sdvx-clone seems fun) and real-world applications for react, python, matlab, c++ 
+- 💞️ I’m looking to collaborate on ... web apps, games and programming-related projects 
 - 📫 How to reach me ... 
 
 <!---
